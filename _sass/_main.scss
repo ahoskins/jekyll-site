@@ -583,6 +583,7 @@ Copyright (c) 2014 Daniel Eden
   font-size: 1.5rem;
   font-weight: bold;
   float: left;
+  line-height: 150%;
 }
 
 .small-text {
@@ -597,5 +598,10 @@ Copyright (c) 2014 Daniel Eden
 .full-width {
   width: 100%;
 }
+
+.post-meta {
+  pointer-events: none;
+}
+
 
 
