@@ -579,29 +579,38 @@ Copyright (c) 2014 Daniel Eden
   margin-bottom: 25px;
 }
 
-.big-text {
-  font-size: 1.5rem;
-  font-weight: bold;
-  float: left;
-  line-height: 150%;
-}
-
 .small-text {
   font-size: 0.8rem;
   float: left;
 }
 
+.triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 4rem solid transparent;
+  border-right: 4rem solid transparent;
+  border-bottom: 8rem solid black;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*
+Some hacks so fix the messy CSS from my changes
+*/
+
 .post {
   padding-top: 0px;
 }
 
-.full-width {
-  width: 100%;
-}
 
 .post-meta {
   pointer-events: none;
 }
+
+
+
+
+
 
 
 

@@ -4,22 +4,8 @@ title: Hi, I'm Andrew
 permalink: /about/
 ---
 
-This website is a portfolio/blog which is (clearly) a work in progress.  
+I'm a [Computer Engineering](https://www.youtube.com/watch?v=ubaX1Smg6pY&=) student at the University of Alberta in Edmonton.  Currently, I'm an
+intern on the [ANT+ team at Dynastream Innovations](http://www.thisisant.com/consumer/ant-101/what-is-ant) in lovely Cochrane, Alberta.
 
-I'm a computer engineering student at the University of Alberta in Edmonton.  In my space time lately I've been doing
-a lot of Angular JS working on a course scheduler project (will be open sourced upon release).  Currently, I work at Dynastream Innovations
-where I am a developer on the ANT+ applications team - primarily working with Java on the Android platform. 
+My current project is a schedule builder written with [AngularJS](https://www.youtube.com/watch?v=ZhfUv0spHCY).  One of my friends, [Ross Anderson](https://github.com/rosshamish), is handling the back-end in Python.  We hope to release it to University of Alberta students in the spring by the time registration opens again.
 
-<!-- This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized) -->
