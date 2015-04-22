@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hi, I'm Andrew
+title: Hi
 permalink: /about/
 ---
 
-I'm a [Computer Engineering](https://www.youtube.com/watch?v=ubaX1Smg6pY&=) student at the University of Alberta in Edmonton.  Currently, I'm an
-intern on the [ANT+ team at Dynastream Innovations](http://www.thisisant.com/consumer/ant-101/what-is-ant) in lovely Cochrane, Alberta.
+I'm a 4th year Computer Engineering student at the University of Alberta.  Currently, I'm an
+intern at Garmin working on [ANT](http://www.thisisant.com/) enabled Android applications.
 
-My current project is a schedule builder written with [AngularJS](https://www.youtube.com/watch?v=ZhfUv0spHCY).  One of my friends, [Ross Anderson](https://github.com/rosshamish), is handling the back-end in Python.  We hope to release it to University of Alberta students in the spring by the time registration opens again.
+I spend lots of my spare time using code to build things.  I also love to bike, play basketball and hockey, and listen to awesome music.
 
