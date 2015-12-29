@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Document events in React
+title:      DOM events in React
 date:       2015-08-09
 summary:    A use case for event.stopImmediatePropagation()
 categories: 
