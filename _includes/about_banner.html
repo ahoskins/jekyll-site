@@ -1,0 +1,1 @@
+<div class="about-banner"></div>

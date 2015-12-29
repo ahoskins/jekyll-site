@@ -571,16 +571,29 @@ Copyright (c) 2014 Daniel Eden
 My own styles to accomodate various things
 */
 
-.custom-look {
+.main-banner {
   width: 100%;
   height: 125px;
-  //position: absolute;
   padding-top: 30px;
   padding-bottom: 30px;
   text-align: center;
   margin-bottom: 25px;
 
-  background-image:url(/images/banff.JPG);
+  background-image:url(/images/mountain_top.jpg);
+  background-size:   cover;                 
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.about-banner {
+  width: 100%;
+  height: 125px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  margin-bottom: 25px;
+
+  background-image:url(/images/tofino.jpg);
   background-size:   cover;                 
   background-repeat: no-repeat;
   background-position: center center;
